@@ -1,0 +1,28 @@
+[{
+	"goal": 1,
+	"title": "End poverty in all its forms everywhere",
+	"short": "No Poverty",
+	"colorInfo": {
+		"hex": "#e5243b",
+		"rgb": [229, 36, 59]
+	},
+	"keywords": {
+		"tags": ["poverty"],
+		"descriptions": ["extreme poverty", "basic standard of living", "social protection"],
+		"groups": ["poorest", "vulnerable"]
+	},
+	"icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_1.png"},
+  {
+	"goal": 2,
+	"title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+	"short": "Zero Hunger",
+	"colorInfo": {
+		"hex": "#e5b735",
+		"rgb": [229, 183, 53]
+	},
+	"keywords": {
+		"tags": ["hunger", "food security", "nutrition", "sustainable agriculture"],
+		"descriptions": ["malnutrition", "food production", "agricultural productivity", "agricultural investments", "food markets"],
+		"groups": []
+	},
+	"icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_2.png"}]
