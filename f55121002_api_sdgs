@@ -151,4 +151,88 @@
 		"descriptions": ["community cohesion", "personal security", "innovation", "employment"],
 		"groups": []
 	},
-	"icon_url": "https://raw.githubusercontent.com/UNStats-SDGs/sdgs-data/master/images/en/TGG_Icon_Color_11.png"},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg11.png"},
+	{
+	"goal": 12,
+	"title": "Ensure sustainable consumption and production patterns",
+	"short": "Responsible Consumption and Production",
+	"colorInfo": {
+		"hex": "#c9992d",
+		"rgb": [201, 153, 45]
+	},
+	"keywords": {
+		"tags": ["consumption", "production"],
+		"descriptions": ["toxic materials", "environment"],
+		"groups": ["international agreements"]
+	},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg12.png"},
+	{
+	"goal": 13,
+	"title": "Take urgent action to combat climate change and its impacts.",
+	"short": "Climate Action",
+	"colorInfo": {
+		"hex": "#3f7e44",
+		"rgb": [63, 126, 68]
+	},
+	"keywords": {
+		"tags": ["climate change"],
+		"descriptions": ["resilience", "natural disasters"],
+		"groups": ["poorest", "vulnerable"]
+	},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg13.png"},
+	{
+	"goal": 14,
+	"title": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+	"short": "Life Below Water",
+	"colorInfo": {
+		"hex": "#0a97d9",
+		"rgb": [10, 151, 217]
+	},
+	"keywords": {
+		"tags": ["oceans", "seas", "marine resources"],
+		"descriptions": ["marine ecosystems", "coastal ecosystems", "marine pollution"],
+		"groups": ["small islands developing States", "SIDS", "least developed countries", "LDCs"]
+	},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg14.png"},
+	{
+	"goal": 15,
+	"title": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+	"short": "Life on Land",
+	"colorInfo": {
+		"hex": "#56c02b",
+		"rgb": [86, 192, 43]
+	},
+	"keywords": {
+		"tags": ["terrestrial ecosystems", "forests", "desertification", "land", "biodiversity"],
+		"descriptions": ["degraded lands", "forest management", "natural habitats"],
+		"groups": []
+	},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg15.png"},
+	{
+	"goal": 16,
+	"title": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+	"short": "Peace and Justice - Strong Institutions",
+	"colorInfo": {
+		"hex": "#00689d",
+		"rgb": [0, 104, 157]
+	},
+	"keywords": {
+		"tags": ["peaceful societies", "inclusive societies", "justice", "institutions"],
+		"descriptions": ["human rights", "rule of law", "violence", "armed conflict", "weak institutions"],
+		"groups": []
+	},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg16.png"},
+	{
+	"goal": 17,
+	"title": "Strengthen the means of implementation and revitalize the global partnership for sustainable development",
+	"short": "Partnerships for the Goals",
+	"colorInfo": {
+		"hex": "#19486a",
+		"rgb": [25, 72, 106]
+	},
+	"keywords": {
+		"tags": ["means of implementation", "partnerships"],
+		"descriptions": ["resource mobilization"],
+		"groups": ["developing countries", "LDCs"]
+	},
+	"icon_url": "https://raw.githubusercontent.com/vidyazh/f55121002_api_sdgs/main/sdg17.png"}]
